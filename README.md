@@ -22,4 +22,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 
 ## Demo
-Deployed on Vercel: [`Link`]([https://nextjs.org/docs/basic-features/font-optimization](https://line-go-assignment-cindychs-projects.vercel.app/)) 
+Deployed on Vercel: [`Link`](https://line-go-assignment-cindychs-projects.vercel.app/) 
